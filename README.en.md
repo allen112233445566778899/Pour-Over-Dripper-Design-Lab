@@ -1,6 +1,6 @@
 <h1 align="center">☕ Pour-Over Dripper Design Lab</h1>
 
-<p align="center"><strong>手冲滤杯参数化设计工具 · Parametric Dripper Design Tool</strong></p>
+<p align="center"><strong>手冲滤杯参数化设计工具 · Parametric Coffee Dripper Design Tool</strong></p>
 
 <p align="center">Turning &quot;wall vent channels&quot; from a physics formula into a solid you can print.</p>
 

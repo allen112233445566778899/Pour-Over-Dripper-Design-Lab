@@ -1,4 +1,4 @@
-<h1 align="center">☕ 手冲滤杯参数化设计工具</h1>
+<h1 align="center">☕ 手冲咖啡滤杯参数化设计工具</h1>
 
 <p align="center"><strong>Pour-Over Dripper Design Lab</strong></p>
 
